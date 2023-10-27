@@ -3,10 +3,11 @@ export default function Home() {
     <div className="no-scrollbar overflow-y-auto">
       <nav className="flex fixed justify-center h-24 bg-neutral-950 z-10 w-full top-0">
         {[
-          ['Universo', '/aboutme'],
-          ['Personagens', '/team'],
-          ['Histórias', '/projects'],
-          ['Equipe', '/reports'],
+          ['Mapa', '/'],
+          ['Universo', '/universo'],
+          ['Personagens', '/personagens'],
+          ['Histórias e Contos', '/historias'],
+          ['Sobre', '/equipe'],
         ].map(([title, url], index) => (
           <a
             key={index}
