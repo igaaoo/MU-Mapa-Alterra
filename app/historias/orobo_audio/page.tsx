@@ -27,7 +27,7 @@ Centenas de seres se encontram agrupados  para ouvir o discurso da Elfa.
 
 
                     <p className="text-lg leading-loose mb-12 text-gray-700 dark:text-gray-300 text-justify">
-                        “Hoje, para celebrar o dia da árvore dourada e começar o Festival Florescer, vamos relembrar a história de nossa amada Orobó. <br/><br/>
+                    &quot;Hoje, para celebrar o dia da árvore dourada e começar o Festival Florescer, vamos relembrar a história de nossa amada Orobó. <br/><br/>
 
                         Como falar de Orobó sem mencionar nossa floresta exuberante, a Floresta dos Miúdos, onde nossa majestosa Árvore Dourada repousa. Esse  é o coração de Orobó, essencial para a continuidade da vida, de nossas vidas… <br/><br/>
                         Na nossa terra, uma variedade de seres coexistem:. Elfos, fadas, duendes, mestiços e humanos encontraram refúgio em nossa região, nos distribuindo em diferentes ambientes: as fadas e duendes vivem na floresta, enquanto nós elfos, humanos e mestiços se agrupam em vilarejos. <br/><br/>
@@ -38,7 +38,7 @@ Centenas de seres se encontram agrupados  para ouvir o discurso da Elfa.
                         Os humanos, os quais foram importantíssimos na revolta dos duendes ao reconhecerem a injustiça enfrentada pelos duendes e se uniram a eles na busca por uma vida mais digna. A solidariedade demonstrada naquela época continua até hoje a inspirar a cooperação e o respeito mútuo entre todas as raças de Orobó. <br/><br/>
                         E diante de tanta diversidade, nossa democracia tem lugar para todos, onde diversos seres têm a capacidade de tomar decisões que moldam a vida da comunidade. O nosso rei, que está presente aqui conosco toma sua decisão a partir da voz do povo para governar. <br/><br/>
 
-                        E com isso gostaria de desejar a todos um perfeito festival florescer!  Obrigada!”
+                        E com isso gostaria de desejar a todos um perfeito festival florescer!  Obrigada!&quot;
 
 
                     </p>
