@@ -1,0 +1,23 @@
+export default function ContoFlorestaExilio() {
+    return (
+        <>
+
+            <div className="p-8 mt-10 w-auto flex flex-wrap justify-center">
+                <div className="container mx-auto text-center">
+                    <h2 className="text-4xl font-bold mb-10 text-gray-900 dark:text-white">Árvore Celestial</h2>
+                    <p className="text-lg leading-loose mb-12 text-gray-700 dark:text-gray-300 text-justify">
+
+                    </p>
+                    Nos tempos antigos, quando os primeiros raios do sol acariciaram nossas folhas e raízes na Floresta do Exílio, senti nossa vasta extensão vibrar com expectativa. Há eras, a Deusa Flora, uma entidade de rara beleza e graça, desceu do panteão celestial com sua pele alva como pétalas de lírios e cabelos que cintilavam como fios de seda dourada. Ela trazia consigo a promessa de renovação, e sua voz melodiosa ecoou por nossos bosques quando derramou o elixir da vida nas terras que agora eram nosso lar, dando origem à majestosa Árvore Celestial, cujo poder irradiava uma beleza e vitalidade inigualáveis. Sob a sua poderosa proteção, outras árvores brotaram, estendendo nossas raízes profundas e entrelaçando nossas vidas em uma sinfonia de conexão única. Cada uma de nós era um ser consciente, parte de um organismo vivo que compartilhava alegrias e tristezas por meio de raízes entrelaçadas.<br /> <br />
+                    No seio desta floresta encantada, seres misteriosos e espíritos vagantes encontraram refúgio, buscando redenção e um destino digno para suas jornadas vagas, mas nem todos eram capazes de encontrar um final. Atormentados por uma vida e angústia sem fim, esses espíritos se solidificam na floresta e se transformam na figura de um Golem. Eram pequenos seres que pareciam feitos de terra e folhagem, como fragmentos de almas perdidas que, de alguma forma, se concretizavam como presenças enigmáticas. Nós, as árvores, compartilhamos com eles o mistério de sua existência, uma história antiga que remonta aos primórdios da floresta.<br /><br />
+                    Entre os poucos dragões que ainda sobreviviam por todo o vasto continente, a energia emanada pela Floresta do Exílio servia como um farol mágico, atraindo esses majestosos seres alados para seus domínios. Era um espetáculo magnífico testemunhar essas criaturas imponentes sobrevoando nossos céus, com suas escamas reluzentes como esmeraldas que brilhavam sob o sol e olhos tão profundos quanto o abismo. <br /><br />
+                    No entanto, entre todos os dragões que eram seduzidos pela energia e calmaria da floresta, apenas um escolheu hibernar ao lado da Árvore Celestial. Esse dragão singular, com sua envergadura impressionante e presença que inspirava temor e reverência, agiu como um guardião das eras. Sua determinação em proteger a árvore e nossa floresta de qualquer ameaça que ousasse se aproximar era inigualável. Seu ronco profundo, que reverberava através dos séculos, ecoava como um lembrete constante de sua devoção à nossa causa e sua ligação com a Árvore Celestial, que se estendia além das palavras. <br /><br />
+                    Enquanto a Floresta do Exílio e sua árvore divina abrigavam seres de todas as formas e tamanhos, a presença solitária deste dragão guardião simbolizava a aliança entre a natureza e as criaturas místicas que habitavam essas terras ancestrais. Era uma ligação sagrada, tecida pelos fios do tempo e envolta em mistérios antigos, que tornava nossa floresta um refúgio único e especial em um mundo vasto e diversificado. <br /><br />
+                    Somos testemunhas silenciosas, conscientes de todos os acontecimentos em nossa floresta. Com todas as nossas árvores adormecidas, éramos um ser divino, onisciente, onipresente e onipotente, embora raramente fôssemos provocadas a demonstrar nosso poder supremo. Observávamos o mundo através das folhas e ouvíamos segredos sussurrados pelo vento. <br /><br />
+                    No entanto, a serenidade da Floresta do Exílio foi desafiada quando uma presença mágica, uma mulher com poderes desconhecidos, adentrou nossos domínios. Com ela, trouxe um guerreiro lagarto chamado Nero, cujos motivos e intenções eram envoltos em mistério. Sentimos a mudança nas brisas, vimos os raios de luz dançarem de forma diferente através das copas das árvores e soubemos que nossa lei natural estava sendo afetada. O destino de nossa floresta e de seus habitantes agora pairava em um equilíbrio frágil, enquanto a paz que reinara por milênios enfrentava uma ameaça desconhecida.
+                </div>
+            </div>
+
+        </>
+    );
+}
